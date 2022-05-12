@@ -1,8 +1,3 @@
-"""
-Name: Kwan Ting Fung
-Student ID: 1155110979
-"""
-
 from utils import *
 from Player import Player
 import random

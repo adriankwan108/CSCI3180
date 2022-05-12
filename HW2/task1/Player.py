@@ -1,8 +1,3 @@
-"""
-Name: Kwan Ting Fung
-Student ID: 1155110979
-"""
-
 class Player():
     def __init__(self, id, board):
         self.id = id
